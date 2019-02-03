@@ -7,10 +7,10 @@
 Collection, quabtization, manipulation, organization & de-sharding of datum— as a Service. Collection of literatureS. Mildly SNakY.
 Updated a minute ago
 
-### sands [🍻🍷🍹🍶☕🍵🍼](/sands)
+### sands [☕](/sands)
 Science and Sanity, 20th Century Semantics. Two, by me.™ https://2by.me/sands
 Unlicense Updated 16 days ago
 
-### 5k [🍻🍷🍹🍶☕🍵🍼](/5k)
+### 5k [🍷](/5k)
 kn1x.github.io/5k
  1  1 Unlicense Updated on Dec 19, 2018
